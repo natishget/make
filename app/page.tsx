@@ -242,8 +242,8 @@ ${calculationType === 1 ? `📎 Binding cost: ${form.perfectBindingCost}` : ""}
 
 Fitsum Printing And Advertising
 Powered By ByteForge 🚀`;
-    const botToken = "8749443050:AAEpZ7VVQFl-1dIa4eV2ZXc504XsAuKrP3g";
-    const chatId = "-5298343627";
+    const botToken = "";
+    const chatId = "";
 
     try {
       const response = await fetch(
